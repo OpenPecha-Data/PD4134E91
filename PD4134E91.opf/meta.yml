@@ -1,0 +1,70 @@
+id: PD4134E91
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA10MS11430
+  instance_id: http://purl.bdrc.io/resource/IE22920
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: None
+  title:
+    bo:
+    - མཛོད་བདུན།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P1583
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    1c97b51498c64a0da1eba55911f9091c:
+      title: ༄༅།་།ཀུན་མཁྱེན་བླ་མའི་གསུང་རབ་ལ་བསྔགས་པ་བཞུགས་སོ།་།
+      volume_number: 5
+      base_file: UT22920_005_0003.txt
+      reference: http://purl.bdrc.io/resource/VL3521F699534BFA4A
+      image_group: null
+      quality: null
+    5d78b44a2f524807ade800b5320f04a3:
+      title: ༄༅།་།དྷརྨདྷཱཏུརཏྣསྱཀོཥབྲིཏྟྱཱགམཱནཱཾནྣིདྷིགཉྫནྣཱམབིཛཧརཾ།་།།་།
+      volume_number: 3
+      base_file: UT22920_003_0002.txt
+      reference: http://purl.bdrc.io/resource/VLA1D5F3CB10FC2571
+      image_group: null
+      quality: null
+    1f7c211ebeae48bc849d97d30afb3c84:
+      title: ༄༅།་།གནས་ལུགས་རིན་པོ་ཆེའི་མཛོད་ཅེས་བྱ་བ་བཞུགས།་།
+      volume_number: 7
+      base_file: UT22920_007_0001.txt
+      reference: http://purl.bdrc.io/resource/VLFFBBF0732DE2FF06
+      image_group: null
+      quality: null
+    66a8ef3672bb464d9b8dac9369179a24:
+      title: ༄༅།་།པདཱརྠརཏྣསྱཀོཥནཱམགུཧྱཱནུཏརཱཤུཀཱཤཾབཛྲགརྦསྱསྠཱནབཻརོཙནབིཛཧཱརམྲ།
+      volume_number: 4
+      base_file: UT22920_004_0001.txt
+      reference: http://purl.bdrc.io/resource/VLA38B6A389016BCC2
+      image_group: null
+      quality: null
+    9d39cc4ce7224c31956c9afacf41076b:
+      title: ༄༅།་།གླེགས་བམ་གཉིས་པའོ།་།
+      volume_number: 1
+      base_file: UT22920_001_0003.txt
+      reference: http://purl.bdrc.io/resource/VL96E098A58A5ED104
+      image_group: null
+      quality: null
+    d0bb61ca056944ddaffb1d045d4460f5:
+      title: ༄༅།་།ཨུཔདེཤརཏྣཀོཥནཱམབིཛཧཱརམྲ།་།
+      volume_number: 2
+      base_file: UT22920_002_0001.txt
+      reference: http://purl.bdrc.io/resource/VL63116F064FA5BE0C
+      image_group: null
+      quality: null
+    93c28d49be3340f18cc920c6af78b7b5:
+      title: ༄༅།་།ཐེག་པ་མཐའ་དག་གི་དོན་གསལ་བར་བྱེད་པ་གྲུབ་པའི་མཐའ་རིན་པོ་ཆེའི་མཛོད་
+      volume_number: 6
+      base_file: UT22920_006_0001.txt
+      reference: http://purl.bdrc.io/resource/VL3F426ED9E5D490CD
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW22920
+  - http://purl.bdrc.io/resource/W22920
+created_at: '2021-12-29T11:55:25.770513'
+last_modified_at: '2021-12-29T11:55:25.770521'
